@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/salehe291abbasi/health-doctor/blob/main/readmegif.gif" />
 <p   align="left"> <img src="https://komarev.com/ghpvc/?username=salehe291abbasi&label=Profile%20views&color=0e75b6&style=flat" alt="salehe291abbasi" /> </p>
 
-- 🔭 I’m currently working on **Mellat bank**
+- 🔭 I’m currently working on **Mellat bank Project**
 
 - 🌱 I’m currently learning **Nextjs**
 
